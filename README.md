@@ -1,2 +1,2 @@
 # bitcoin
-read
+Code used to analyse Bitcoin and other crypto currencies
